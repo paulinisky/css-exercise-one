@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 body {
+=======
+body
+>>>>>>> 1b206cdcce60304778affb7a2c90dd06305575af
   font-size: 14px;
 }
 
@@ -8,7 +12,11 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
+<<<<<<< HEAD
 }
+=======
+
+>>>>>>> 1b206cdcce60304778affb7a2c90dd06305575af
 
 section {
   margin: 0 auto;
@@ -16,13 +24,21 @@ section {
 }
 
 h1 {
+<<<<<<< HEAD
   font-family: sans-serif;
+=======
+  font-family sans-serif;
+>>>>>>> 1b206cdcce60304778affb7a2c90dd06305575af
   font-size: 2em;
 }
 
 .example, h3 {
   padding-top: 30px;
+<<<<<<< HEAD
   text-align: center;
+=======
+  text-align center
+>>>>>>> 1b206cdcce60304778affb7a2c90dd06305575af
 }
 
 h3 {
@@ -32,6 +48,7 @@ h3 {
 .element {
   background-color: green;
   height: 100px;
+<<<<<<< HEAD
   margin: 10px 0;
   width: 100%;
 }
@@ -44,3 +61,7 @@ h3 {
   margin: 10px 0;
   width: 100%;
 }
+=======
+  margin 10px 0;
+  width: 100%;
+>>>>>>> 1b206cdcce60304778affb7a2c90dd06305575af
